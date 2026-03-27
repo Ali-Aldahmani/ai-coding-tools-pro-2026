@@ -1,5 +1,7 @@
 # 🤖 AI Coding Tools — Pro Plan Comparison 2026
 
+> 📊 [Comparison Tables](comparison-tables.md) · 💡 [Insights & Recommendations](insights-and-recommendations.md) · 🛠️ [Tool Profiles](tools/)
+
 > A comprehensive comparison of the best AI coding assistants at the **~$20/month Pro tier**, focused on real usage limits, model access, and value for money.
 
 **Tools covered:** Claude Code · Cursor · OpenAI Codex · Google Antigravity · Windsurf
